@@ -22,7 +22,7 @@
     "url": "https://github.com/Microsoft/edge-diagnostics-adapter.git"
   },
   "dependencies": {
-    "node-pre-gyp": "^0.6.38",
+    "node-pre-gyp": "^0.17.0",
     "regedit": "^2.2.7",
     "ws": "3.2.0",
     "yargs": "^9.0.1"
