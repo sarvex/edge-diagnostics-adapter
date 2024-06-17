@@ -24,7 +24,7 @@
   "dependencies": {
     "node-pre-gyp": "^0.6.38",
     "regedit": "^2.2.7",
-    "ws": "3.2.0",
+    "ws": "5.2.4",
     "yargs": "^9.0.1"
   },
   "devDependencies": {
